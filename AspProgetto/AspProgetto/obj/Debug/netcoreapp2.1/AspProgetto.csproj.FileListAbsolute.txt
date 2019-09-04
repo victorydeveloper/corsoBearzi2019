@@ -30,3 +30,4 @@ C:\Users\bearzi\Desktop\sito insegnante\miosito\AspProgetto\AspProgetto\obj\Debu
 C:\Users\bearzi\Desktop\sito insegnante\miosito\AspProgetto\AspProgetto\obj\Debug\netcoreapp2.1\AspProgetto.dll
 C:\Users\bearzi\Desktop\sito insegnante\miosito\AspProgetto\AspProgetto\obj\Debug\netcoreapp2.1\AspProgetto.pdb
 C:\Users\bearzi\Desktop\sito insegnante\miosito\AspProgetto\AspProgetto\obj\Debug\netcoreapp2.1\AspProgetto.csproj.CopyComplete
+C:\Users\bearzi\Desktop\sito insegnante\miosito\AspProgetto\AspProgetto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ListStudents.g.cshtml.cs

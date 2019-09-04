@@ -20,6 +20,7 @@ namespace AspProgetto.Controllers
             ViewData["Message"] = "Your application description page.";
 
             return View();
+            
         }
 
         public IActionResult Contact()
@@ -33,6 +34,7 @@ namespace AspProgetto.Controllers
         {
             return View();
         }
+       
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
